@@ -1,0 +1,60 @@
+.shortcut-links {
+  height: 45px;
+  border-bottom: 1px solid #e7e7e7;
+}
+
+.blog-logo {
+  display: inline-block;;
+  width: 130px;
+  height: 45px;
+  text-align: center;
+  border-right: 1px solid #e7e7e7;
+  line-height: 45px;
+  font-weight: 800;
+}
+
+.blog-logo a {
+  font-size: 16px;
+}
+
+.primary-links {
+  width: 1300px;
+  margin: 0 auto;
+  padding: 12px 0;
+  vertical-align: middle;
+}
+
+.main-logo {
+  display: inline-block;;
+}
+
+.main-menu {
+  margin: 9px 0 10px 0;
+}
+
+.main-menu li {
+  margin: 0 15px;
+}
+
+.main-menu li a{
+  color: #646464;
+  font-weight: 400;
+  font-size: 17px;
+}
+
+.main-menu li .point {
+  color: #ff4a68;
+  font-weight: 900;
+}
+
+.notice-bar {
+  height: 55px;
+  border: 1px solid #e7e7e7;
+}
+
+.notice-txt {
+  margin: 20px auto;
+  width: 500px;
+  font-size: 16px;
+  font-weight: 400;
+}

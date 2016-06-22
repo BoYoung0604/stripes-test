@@ -1,0 +1,20 @@
+body {
+  width: 100%;
+  font-style: "Spoqa Han Sans","Spoqa Han Sans JP","Sans-serif";
+  font-size: 14px;
+}
+
+a {
+  color: #333;
+  text-decoration:none;
+}
+
+ul {
+  float: right;
+  padding: 0px 20px;
+}
+
+ul li {
+  display: inline-block;
+  padding-right: 15px;
+}
