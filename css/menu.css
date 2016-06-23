@@ -1,0 +1,89 @@
+a{
+  color: #333;
+  text-decoration: none;
+}
+
+ul {
+  float: left;
+  padding: 15px 30px;
+}
+
+.menu-content {
+  margin: 30px;
+}
+
+.user-area {
+  height: 100px;
+  border-bottom: 8px solid #dadada;
+}
+
+.user-menu li {
+  display: inline-block;
+  padding: 0 55px 0 5px;
+}
+
+.user-menu li a{
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.close_btn {
+  float: right;
+  width: 70px;
+  margin: 10px 0;
+}
+
+.prod-menu {
+  width: 100%;
+  margin: 0;
+  -webkit-padding-start: 0px;
+}
+
+.prod-menu li {
+  display: block;
+  width: 100%;
+  padding: 30px 0;
+  border-bottom: 3px solid #dadada;
+  font-size: 13px;
+}
+
+.prod-menu li a{
+  display: inline;
+  margin: 25px 40px;
+  font-size: 40px;
+  font-weight: 500;
+}
+
+.blog-txt{
+  float: right;
+  padding: 5px 15px;
+  color: #dadada;
+  font-size: 35px;
+}
+
+.prod-menu .prod-sub-menu ul {
+  width: 100%;
+  -webkit-padding-start: 0px;
+}
+
+.prod-menu .prod-sub-menu li {
+  border: none;
+  padding: 10px;
+}
+
+.prod-menu .prod-sub-menu li a{
+  color: #dadada;
+  font-size: 35px;
+}
+
+.prod-menu #shirts-menu {
+  height: 430px;
+}
+
+.prod-menu #pants-menu {
+  height: 300px;
+}
+
+.prod-menu #acc-menu {
+  height: 170px;
+}
